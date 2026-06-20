@@ -1,0 +1,32 @@
+@import url("https://fonts.googleapis.com/css2?family=Jost:ital,wght@0,100..900;1,100..900&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Jost", sans-serif;
+}
+
+body {
+  background-color: #fcfcfc;
+}
+header {
+  padding: 20px 8%;
+
+
+}
+section{
+padding: 70px 8%;
+}
+
+header{
+ display: flex;
+ justify-content: space-between;
+ align-items: center;
+ width: 100%;
+}
+.logo{
+  
+  font-weight: bold;
+  padding: 20px;
+}
